@@ -1,0 +1,12 @@
+/* Custom styles to complement Tailwind CSS */
+body {
+    font-family: sans-serif;
+}
+
+/* Set a fixed height and a transparent background for the map container */
+#map { 
+    height: 1100px; 
+    width: 100%;
+    border-radius: 0.5rem;
+    background-color: transparent; /* Allows website background to show through */
+}
